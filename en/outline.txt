@@ -1,0 +1,27 @@
+Outline
+
+Introduction
+- What this book is/intends to be
+- Problems with current deploymetn systems
+	- FTP
+	- Web deploy
+- Why not do it like app harbor/heroku do it?
+
+Setting up SSH
+- Assume windows server is setup
+- Cygwin install
+	- Packages
+- SSH Config
+- Git User
+
+Setting up Gitolite
+- Admin install
+	- Gotchas w/ cygwin (no sudo)
+- Some gitolite admin
+
+Setup Git Hooks
+- Git hooks description
+- Build scripts with Nant
+
+User Admin
+- Brief scenarios for adding users/groups
