@@ -14,7 +14,8 @@ to convert out markdown to html. There are native windows-ey ways to do this but
 seemed pretty simple. Put it somewhere in your PATH where Cygwin will see it. /usr/local/bin would be good.
 3. Download and install [wkhtmltopdf](http://code.google.com/p/wkhtmltopdf/) and be sure the executable is in your PATH. An alternative
 to wkhtmltopdf is htmldoc. The source compiles very nicely in Cygwin but you'll have to check out the help for command line options.
-4. Create your own pdf by invoking as such from a Cygwin prompt (using a makefile to batch these up is easier) `Markdown.pl en/gitdeploy.markdown | wkhtmltopdf cover en/cover.html - output.pdf`
+4. Create your own pdf by invoking as such from a Cygwin prompt (using a makefile to batch these up is easier)  
+`Markdown.pl en/gitdeploy.markdown | wkhtmltopdf cover en/cover.html - output.pdf`
 
 ## Contributions ##
 Contributions, especially language translations via pull requests would be welcome!
