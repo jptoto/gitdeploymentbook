@@ -5,10 +5,11 @@ This book is a free eBook about deploying .NET applications to a Windows-based s
 ## Build Setup ##
 There are several ways to setup the Markdown -> html -> pdf process. I like using Cygwin because Markdown.pl
 likes using a Unix-ey version of Perl. I haven't gotten my head around xetex/pandoc templating but embedding css
-links directly inside the markdown seems to yield nicely formatted text.
+links directly inside the markdown seems to yield nicely formatted text.  
+
 1. Install [Cygwin](http://www.cygwin.com) and be sure to install the Perl package. It will automatically pull
 any dependencies you need.
-2. Download [Markdown.pl](http://daringfireball.net/projects/markdown/) from John Gruber's site. This is the script we'll use
+2.  Download [Markdown.pl](http://daringfireball.net/projects/markdown/) from John Gruber's site. This is the script we'll use
 to convert out markdown to html. There are native windows-ey ways to do this but since I always have Cygwin installed, this way
 seemed pretty simple.
 3. Download and install [wkhtmltopdf](http://code.google.com/p/wkhtmltopdf/) and be sure the executable is in your PATH. An alternative
