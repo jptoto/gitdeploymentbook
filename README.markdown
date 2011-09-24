@@ -10,7 +10,7 @@ links directly inside the markdown seems to yield nicely formatted text.
 1. Install [Cygwin](http://www.cygwin.com) and be sure to install the Perl package. It will automatically pull
 any dependencies you need.
 2.  Download [Markdown.pl](http://daringfireball.net/projects/markdown/) from John Gruber's site. This is the script we'll use
-to convert out markdown to html. There are native windows-ey ways to do this but since I always have Cygwin installed, this way
+to convert our markdown to html. There are native windows-ey ways to do this but since I always have Cygwin installed, this way
 seemed pretty simple. Put it somewhere in your PATH where Cygwin will see it. /usr/local/bin would be good.
 3. Download and install [wkhtmltopdf](http://code.google.com/p/wkhtmltopdf/) and be sure the executable is in your PATH. An alternative
 to wkhtmltopdf is htmldoc. The source compiles very nicely in Cygwin but you'll have to check out the help for command line options.
