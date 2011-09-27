@@ -4,5 +4,4 @@ Markdown.pl en/gitdeploy.markdown | wkhtmltopdf \
 --footer-left "The Git Deployment Book" \
 --footer-right [page] \
 cover en/cover.html \
-toc \
 - GitDeploymentBook.pdf
