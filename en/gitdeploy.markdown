@@ -5,5 +5,4 @@
 ## About this book
 some stuff
 
-`int jp =0;  
-JP jp = new JP();`
+`int jp =0; JP jp = new JP();`
