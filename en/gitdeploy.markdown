@@ -5,5 +5,10 @@
 ## About this book
 some stuff
 
-`int jp =0;`  
-`JP jp = new JP();`  
+<div class="codeblock">
+
+`int jp =0; JP jp = new JP();`
+
+</div>
+
+some more stuff
