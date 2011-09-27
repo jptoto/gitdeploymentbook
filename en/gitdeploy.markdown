@@ -5,6 +5,13 @@
 ## About this book
 some stuff  
 
-	int jp =0; JP jp = new JP();
+	int jp =0;  
+	JP jp = new JP();  
+	jp + jp = new jp;
 
 some more stuff
+
+<div class="codeblock">
+stuff a roonie
+</div>
+
