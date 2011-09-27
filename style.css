@@ -6,9 +6,12 @@ body {
 }
 
 code {
-	margin-left: 20px;
 	font-family: "Courier";
-	font-size: 10pt;
+	font-size: 10pt;	
+}
+
+codeblock {
+	margin-left: 20px;
 	background: #e6e6e6;
 	border-left: 5px solid #969595;
 	border-top: 1px solid #969595;
