@@ -3,12 +3,8 @@
 # Building a Git Push Deployment Server for .NET Projects
 
 ## About this book
-some stuff
+some stuff  
 
-<div class="codeblock">
-
-`int jp =0; JP jp = new JP();`
-
-</div>
+	int jp =0; JP jp = new JP();
 
 some more stuff
